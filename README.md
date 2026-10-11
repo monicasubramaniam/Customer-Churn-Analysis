@@ -69,7 +69,7 @@ This project explores the following questions:
 - **Customer tenure:** Churn is highest in the first 12 months (47.44%) and falls to 6.61% after 61 months. Churned customers had an average tenure of 17.98 months, versus 37.57 months for retained customers.
 - **Monthly charges:** Churned customers pay more on average ($74.44 a month versus $61.27 for retained customers).
 - **Senior citizens:** Senior citizens churn at 41.68%, against the overall rate of 26.54%.
-- **Partner status:** EDIT: add the churn rates for customers with and without partners, or delete this bullet.
+- **Partner status:** Customers without a partner churn at 32.96%, compared with 19.66% for customers with a partner.
 
 
 ## Business Recommendations
