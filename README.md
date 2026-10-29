@@ -4,7 +4,7 @@ Customer Churn Analysis using Python, Pandas, and Power BI to identify churn pat
 
 ## Project Overview
 
-An end-to-end data analytics project using Python, Pandas, and Power BI to analyze customer churn, identify patterns in customer behavior, and support data-driven retention strategies.
+An end-to-end data analytics project using Python, Pandas, SQL, and Power BI to analyze customer churn, identify patterns in customer behavior, and support data-driven retention strategies.
 
 ## Dashboard Preview
 
