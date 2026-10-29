@@ -39,12 +39,15 @@ This project explores the following questions:
 
 ## Project Workflow
 
+## Project Workflow
+
 1. **Data inspection:** Examined the dataset structure, columns, and data types.
 2. **Data cleaning:** Converted `TotalCharges` to a numeric data type and inspected missing values.
-3. **Feature preparation:** Created tenure groups (0-12, 13-24, 25-48, 49-60, 61-72 months) to compare churn across customer lifetimes.
-4. **Exploratory data analysis:** Analyzed churn across customer tenure, contract type, payment method, internet service, and partner status.
-5. **KPI analysis:** Calculated overall churn and compared churn rates across customer segments.
-6. **Dashboard development:** Created a Power BI dashboard to communicate key metrics and customer churn patterns.
+3. **Feature preparation:** Created tenure groups (0–12, 13–24, 25–48, 49–60, 61–72 months) to compare churn across customer lifetimes.
+4. **Exploratory data analysis:** Analyzed churn across customer tenure, contract type, payment method, internet service, and partner status using Python and Pandas.
+5. **SQL analysis:** Used MySQL queries with aggregations and conditional logic to calculate churn rates and compare customer segments.
+6. **KPI analysis:** Calculated overall churn and compared churn rates across customer segments.
+7. **Dashboard development:** Created a Power BI dashboard to communicate key metrics and customer churn patterns.
 
 ## Key Performance Indicators
 
