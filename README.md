@@ -96,4 +96,4 @@ Based on the findings above, these actions could help reduce churn:
 
 [LinkedIn Profile](https://www.linkedin.com/in/monica-subramaniam-2a3006398)
 
-**Project focus:** Customer Analytics | Churn Analysis | Python | Pandas | Power BI
+**Project focus:** Customer Analytics | Churn Analysis | Python | Pandas | SQL | Power BI 
